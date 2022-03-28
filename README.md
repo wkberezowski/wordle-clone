@@ -6,6 +6,7 @@
 ### The completed version of the application icludes:
 * **HTML** structure, **CSS** styling
 * Adding dynamic elements using **JavaScript** (Wordle gameboard, animations)
-* Using **Axios**, **Cors** and **Express** for backend functionalities (e.g. generating random word each time, checking if the word enterd exists (using appropriate APIs) 
+* Using **Axios**, **Cors** and **Express** for backend functionalities
+* Generating random word each time, checking if the word enterd exists using appropriate APIs
 
 https://user-images.githubusercontent.com/61703808/160376517-aa45ac46-313f-47d0-9997-8beda3e81e4b.mp4
